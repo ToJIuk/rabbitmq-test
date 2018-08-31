@@ -1,0 +1,12 @@
+{
+    "name": "lyudmila/rabbitmq-test",
+    "authors": [
+        {
+            "name": "ToJIuk",
+            "email": "dt150685@mail.ru"
+        }
+    ],
+    "require": {
+        "php-amqplib/php-amqplib": ">=2.6.1"
+    }
+}
